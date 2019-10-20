@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18492" started-at="2019-10-19T04:03:02Z" finished-at="2019-10-19T04:03:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18492" started-at="2019-10-19T04:03:02Z" finished-at="2019-10-19T04:03:20Z">
+      <class name="com.freeCrm.testMethods.LoginPage">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.freeCrm.testMethods.LoginPage@6fffcba5]" name="preCondition" is-config="true" duration-ms="12010" started-at="2019-10-19T09:33:02Z" finished-at="2019-10-19T09:33:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="linkTest()[pri:0, instance:com.freeCrm.testMethods.LoginPage@6fffcba5]" name="linkTest" duration-ms="6414" started-at="2019-10-19T09:33:14Z" finished-at="2019-10-19T09:33:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTest -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.freeCrm.testMethods.LoginPage@6fffcba5]" name="postCondition" is-config="true" duration-ms="57" started-at="2019-10-19T09:33:20Z" finished-at="2019-10-19T09:33:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.freeCrm.testMethods.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
